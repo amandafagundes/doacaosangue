@@ -8,7 +8,7 @@ O aplicativo conta com autenticação e cadastro de usuários através do banco 
 
 ## Telas
 
-![Login](/images/login.jpeg?raw=true "Tela de Login")
+![Login](/images/login.jpeg =250x?raw=true "Tela de Login")
 
 ![Cadastro](/images/cadastro.jpeg?raw=true "Tela de Cadastro")
 
