@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Doação de Sangue</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="signin_button">ENTRAR</string>
+    <string name="signup_text">Novo por aqui? Cadastre-se!</string>
+    <string name="title_activity_home">Pedidos</string>
+    <string name="title_activity_new_request">Cadastrar Pedido</string>
+    <string name="title_activity_signup">Criar Conta</string>
+    <string name="signup_button">CRIAR CONTA</string>
+    <string name="not_registered">E-mail ou senha incorretos!</string>
+    <string name="signup_error">E-mail já cadastrado!</string>
+    <string name="required_field">Campo obrigatório!</string>
+    <string name="no_requests">Nenhum pedido cadastrado!</string>
+    <string name="hospital_hint">Hospital</string>
+    <string name="patient_hint">Paciente</string>
+    <string name="save_request">FAZER PEDIDO</string>
+    <string name="request_saved">Pedido enviado!</string>
+    <string name="request_failed">Erro ao enviar pedido</string>
+    <string name="invalid_email">E-mail inválido!</string>
+</resources>
